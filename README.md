@@ -1,3 +1,3 @@
 # git-test
-this is just a place to figure out how to do things
-:brain: 
+
+The purpose of this repository is to verify that whichever way I am currently using git actually works. 
