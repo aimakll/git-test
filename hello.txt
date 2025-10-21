@@ -3,3 +3,7 @@ just a simple text file, to see if it works to push stuff to github
 
 ---
 this is now an updated text file, it's purspose in life is to be pushed so I see if this still works. 
+
+---
+it is October 21, 2025 and I am re-installing git. 
+which means I need something to push to make sure it works. :)
